@@ -1,3 +1,5 @@
+/* gcc -ansi -pedantic -Wall assembler.c -o assembler */
+
 #include <stdio.h>
 #include <string.h>
 
