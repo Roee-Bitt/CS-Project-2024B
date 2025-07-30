@@ -1,6 +1,6 @@
 # CS-Project-2024B
 
-This is my project in C language in course "Ma'abada Betichnoot Ma'arachot".
-It is an Assembler that proccess assembly language file.
-It returns errors, warnings, and finally gives a .ob file.
-That file contains Machine langugae (i.e. 01010100011) that represents the commands in the original assembly file.
+This is my final project in C language for academic course "Systems Programming Lab" in The Open University.
+The program is an Assembler, Assembly language translator, that proccesses files of a custom-defined Assembly language.
+The programs recieves input files and outputs code errors, warnings, and an .ob file.
+The .ob file contains code in machine language (i.e. ones and zeros) that represents the commands in the original assembly file.
